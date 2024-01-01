@@ -1,0 +1,9 @@
+DB Name - shopping
+
+Admin
+	ID - admin@gmail.com
+	P - Test@123
+
+USER:
+	mail: panjiyar@gmail.com
+	Pass: 12345
